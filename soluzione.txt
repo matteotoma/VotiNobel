@@ -20,7 +20,7 @@ APPROCCIO 1: generare i sottoinsiemi di PARTENZA 1 caso per volta, decidendo esa
 					 - Lo inserisco --> parziale = {e2}
 					 - Non lo inserisco --> parziale = { }
 
-	* Soluzione parziale == un sottoinsieme composto dagi esami tra 0 e (L-1)
+	* Soluzione parziale == un sottoinsieme composto dagli esami tra 0 e (L-1)
 	
 	* Generazione di un sottoproblema: decidere se inserire esami[L] oppure no. Due possibili sottoproblemi:
 		1. non aggiungo niente alla soluzione parziale
